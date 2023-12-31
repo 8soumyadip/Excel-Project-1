@@ -1,6 +1,6 @@
 # Excel-Project-1
 
-Helped Vrindra Store to create an Annual Sales Report for 2022.
+Helped Vrinda Store to create an Annual Sales Report for 2022.
 
 Vrinda Store wants to understand their customers and grow more sales in 2023. By leveraging MS Excel's robust capabilities, provided a comprehensive view of the store's performance, enabling stakeholders to make informed decisions based on the presented insights.
 
